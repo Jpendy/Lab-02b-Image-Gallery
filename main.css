@@ -15,6 +15,10 @@
     text-align: center;
     padding: 20px;
     margin: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 25px darkblue;
+    color: darkslategrey;
+    background-color: lightgrey;
 
 }
 
