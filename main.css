@@ -2,11 +2,14 @@
     box-sizing: border-box;
 }
 
-.card-gallery {
+ul {
+    list-style: none;
     display: flex;
     flex-wrap: wrap;
-
 }
+
+
+
 
 .dog-card {
     width: 250px;
@@ -26,9 +29,9 @@
     height: 250px;
     width: 100%;
     object-fit: cover;
-
 }
 
 card-description {
     text-align: center;
 }
+
