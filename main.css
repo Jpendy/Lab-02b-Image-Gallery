@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+.card-gallery {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.dog-card {
+    width: 250px;
+    height: 400px;
+    border: 1px solid black;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+.dog-pic {
+    height: 250px;
+    width: 100%;
+    object-fit: cover;
+
+}
+
+card-description {
+    text-align: center;
+}
